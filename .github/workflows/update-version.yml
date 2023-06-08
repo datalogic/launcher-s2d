@@ -47,5 +47,5 @@ jobs:
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
-         branch: master
+         branch: main
          file_pattern: '*.txt'
